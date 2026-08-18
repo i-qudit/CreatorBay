@@ -70,7 +70,7 @@ Contributions are what make the developer community such an amazing place to lea
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
-Project Link: [https://github.com/your-username/CreatorBay](https://github.com/i-qudit/CreatorBay)
+Project Link: [https://github.com/i-qudit/CreatorBay](https://github.com/i-qudit/CreatorBay)
 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
